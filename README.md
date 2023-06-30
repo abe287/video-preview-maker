@@ -36,10 +36,3 @@ Specify the path of the output file:
 ```
 --output [OUTPUT VIDEO FILE]
 ```
-
-## Example
-The following is the full input video:
-https://www.youtube.com/watch?v=YE7VzlLtp-4
-
-The output video after running it through the script with default settings:
-https://github.com/abe287/video-preview-maker/assets/43942045/1ef9f9ec-ea82-4753-bbd3-9ff8fff0b7ee
