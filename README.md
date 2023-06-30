@@ -37,7 +37,7 @@ Specify the path of the output file:
 --output [OUTPUT VIDEO FILE]
 ```
 
-##Example
+## Example
 The following is the full input video:
 https://www.youtube.com/watch?v=YE7VzlLtp-4
 
