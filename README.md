@@ -1,5 +1,5 @@
 ## Description
-Generate a preview video from a video file. I have seen scripts and applications that make a preview image from a video file but never found one that makes a short preview video from one. I have been looking to develop a video marketplace very soon. I felt like this would be useful as it provides users with a small preview of what they would be purchasing.
+This script generates a preview video from a video file. I have seen scripts and applications that make a preview image from a video file but never found one that makes a short preview video from one. I have been looking to develop a video marketplace very soon and needed a way to generate preview videos.
 
 ## Installation
 video-preview-maker has the following dependencies:
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To simply create a video preview, you can run the script with the default settings by using the following:
+To create a video preview, you can run the script with the default settings by using the following:
 ```
 python app.py --video_path [VIDEO FILE]
 ```
