@@ -47,3 +47,5 @@ The following is the output video after running it through the script:
 <video width="600" controls>
   <source src="https://i.imgur.com/2FqU71T.mp4" type="video/mp4">
 </video>
+
+![](https://i.imgur.com/2FqU71T.mp4)
