@@ -36,3 +36,14 @@ Specify the path of the output file:
 ```
 --output [OUTPUT VIDEO FILE]
 ```
+
+## Example
+The following is the input video:
+
+https://www.youtube.com/watch?v=YE7VzlLtp-4
+
+The following is the output video after running it through the script:
+
+<video width="600" controls>
+  <source src="https://i.imgur.com/2FqU71T.mp4" type="video/mp4">
+</video>
